@@ -1,0 +1,5 @@
+.Item {}
+
+.enlarge:hover {
+    transform: scale(0.3);
+}

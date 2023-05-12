@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       {/* <Somename name="suhas" export = {someVar}/> */}
-      <SomeHook name="suhas"/>
+      <SomeHook/>
     </div>
   );
 }
